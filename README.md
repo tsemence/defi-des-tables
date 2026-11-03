@@ -4,7 +4,7 @@ Mini-application de calcul pour navigateur et tablette Android. Multiplications,
 
 ## Version en ligne sur GitHub Pages
 
-Ouvrir `https://tsemence.github.io/defi-des-tables/`.
+Ouvrir <https://tsemence.github.io/defi-des-tables/>
 
 ## Installation Android
 
